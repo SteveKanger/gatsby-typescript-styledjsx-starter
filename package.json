@@ -1,7 +1,7 @@
 {
-    "name": "stevekanger-com",
+    "name": "gatsby-typescript-styledjsx-starter",
     "private": true,
-    "description": "Web designer and developer Steve Kanger portfolio and blog",
+    "description": "Simple template for gatsby with typescript, styledjsx and layout plugins",
     "version": "0.1.0",
     "license": "MIT",
     "scripts": {
