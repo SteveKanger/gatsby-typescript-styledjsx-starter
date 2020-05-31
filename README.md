@@ -4,7 +4,7 @@ A gatsby starter template with styledjsx, typescript and the layout plugins
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/get-npm) or [yarn](https://yarnpkg.com/) to install.
 
 ```
 npm install
